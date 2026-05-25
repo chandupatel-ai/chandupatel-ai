@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 ## 🤖 About Me
 
 ECE graduate turned AI/ML Engineer — building and deploying real AI systems with LangChain, LangGraph, and Generative AI.
@@ -57,11 +59,11 @@ ECE graduate turned AI/ML Engineer — building and deploying real AI systems wi
 
 | Project | Tech | Links |
 |---|---|---|
-| 🤖 RAG Chatbot — AI Document Q&A | LangChain, ChromaDB, Groq, Streamlit, Docker | [GitHub](https://github.com/chandupatel-ai/rag-chatbot) • [Live Demo](https://github.com/chandupatel-ai/rag-chatbot) |
+| 🤖 RAG Chatbot — AI Document Q&A | LangChain, ChromaDB, Groq, Streamlit, Docker | [GitHub](https://github.com/chandupatel-ai/rag-chatbot) • [Live Demo](https://github.com/chandupatel-ai/rag-doc-assistant) |
 | 🧠 Grid07 AI — Cognitive Routing & RAG | LangGraph, ChromaDB, Groq | [GitHub](https://github.com/chandupatel-ai/grid07-assignment) |
-| 📄 Resume Analyzer AI — ATS Match | Flask, NLP, Python | [GitHub](https://github.com/chandupatel-ai/Resume-Analyzer-AI) |
+| 📄 Resume Analyzer AI — ATS Match | Flask, NLP, Python | [GitHub](https://github.com/chandupatel-ai/Resume-Analyzer-AI) • [Live Demo](https://resume-analyzer-ai-qqmi.onrender.com/) |
 | 🔬 DistilBERT Fine-Tuning — 91.4% Accuracy | HuggingFace, PyTorch, T4 GPU | [GitHub](https://github.com/chandupatel-ai/distilbert-sst2-sentiment) |
-| 🏠 House Price Prediction — Kaggle 0.13295 | XGBoost, Scikit-learn | [GitHub](https://github.com/chandupatel-ai/house-price-prediction-kaggle) |
+| 🏠 House Price Prediction — Kaggle 0.13295 | XGBoost, Scikit-learn | [GitHub](https://github.com/chandupatel-ai/house-price-prediction-kaggle) • [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) |
 
 ---
 
