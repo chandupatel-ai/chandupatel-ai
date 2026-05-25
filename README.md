@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Induri+Sai+Chandu;AI%2FML+Developer;RAG+%26+LangChain+Engineer;Generative+AI+Builder;Python+Developer;Prompt+Engineer" alt="Typing SVG" />
-![Profile Views](https://komarev.com/ghpvc/?username=chandupatel-ai&color=blue&style=flat)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Sai+Chandu;AI%2FML+Developer;RAG+%26+LangChain+Engineer;Generative+AI+Builder;Python+Developer;Prompt+Engineer" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=chandupatel-ai&color=blue&style=flat-square&label=Profile+Views)](https://github.com/chandupatel-ai)
 
 </div>
-
----
 
 ## 🤖 About Me
 
